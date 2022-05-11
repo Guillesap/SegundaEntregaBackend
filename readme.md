@@ -1,6 +1,6 @@
 # SEGUNDA ENTREGA PROYECTO FINAL - BASE DE DATOS PELICULAS TERROR.
 
--La Base de datos en MongoAtlas, tiene como nombre basepeliculasterror.
+-La Base de datos se encuentra en MongoDB Atlas, tiene como nombre basepeliculasterror.
 
 -En dicha base, se encuentran cargadas las peliculas de terror,  con su nombre, portada, precio y stock.
 
