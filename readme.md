@@ -8,12 +8,8 @@
 - Chequeo productos cargados en la base mediante aplciación Post: http://www.localhost:8080/api/products
 
 Algunas de las películas de la base:
-            "_id": "627adf8dd589f3e2be9beb23",
-            "name": "Saw",
-            "thumbnail": "https://areajugones.sport.es/wp-content/uploads/2021/05/saw-1.jpg",
-            "price": 1500,
-            "stock": 2
-    
+
+
             "_id": "627adf8dd589f3e2be9beb24",
             "name": "It",
             "thumbnail": "https://www.srgeekarg.com/wp-content/uploads/2019/09/it-90s-PORTADA.jpg",
